@@ -4,7 +4,7 @@ A pixel-perfect recreation of the Mintlify landing page built using HTML and CSS
 
 ## Live Demo
 
-🔗 **[](#)** 
+🔗 **[...](#)** 
 
 ---
 
